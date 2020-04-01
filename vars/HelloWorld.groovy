@@ -1,4 +1,4 @@
-import org.dcube.build.HelloWorld
+import src.org.dcube.build.HelloWorld
 import org.dcube.ioc.ContextRegistry
 
 def call(String solutionPath) {
